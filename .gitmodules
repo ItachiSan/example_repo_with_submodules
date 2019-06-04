@@ -1,0 +1,3 @@
+[submodule "module"]
+	path = deps/module
+	url = https://github.com/ItachiSan/example_repo
